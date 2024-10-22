@@ -70,17 +70,7 @@ export const Cabecera = () => {
                 </NavLink>
               </li>
             </ul>
-            <form className="d-flex" role="search">
-              <input
-                className="form-control form-control-sm me-2"
-                type="search"
-                placeholder="Buscar"
-                aria-label="Buscar"
-              />
-              <button className="btn btn-outline-light btn-sm" type="submit">
-                Buscar
-              </button>
-            </form>
+
           </div>
         </div>
       </nav>
